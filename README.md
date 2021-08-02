@@ -2,5 +2,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 To run locally:
 >npm install and npm start
-
+<br>
+<br>
+### Local Deployment:
 <img src="Capture.PNG">
