@@ -4,5 +4,7 @@ To run locally:
 >npm install and npm start
 <br>
 <br>
+
 ## Local Deployment:
+
 <img src="Capture.PNG">
