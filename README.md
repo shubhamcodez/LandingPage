@@ -3,4 +3,4 @@ This project was created with [Create React App](https://github.com/facebook/cre
 To run locally:
 >npm install and npm start
 
-![alt text](https://github.com/shubhamcodez/PharmaLandingPage/capture.png?raw=true)
+![alt text](https://github.com/shubhamcodez/PharmaLandingPage/Capture.png?raw=true)
