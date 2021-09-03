@@ -30,12 +30,13 @@ margin-bottom: 10px;
 }
 
 .products {
-  background-image: url('/images/img-1.jpg');
+  background-image: url('');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
+  color: black;
+  font-size: 10px;
+  max-width: 100%;
 }
 
 .sign-up {

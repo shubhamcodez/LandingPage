@@ -1,7 +1,7 @@
 .navbar-logo {
     color: rgb(12, 43, 97);
     justify-self: start;
-    margin-left: 150px;
+    margin-left: 30px;
     margin-top: 20px;
     cursor: pointer;
     text-decoration: none;
@@ -32,6 +32,8 @@
     margin: 0.3rem 0.5rem 0.5rem 0.5rem;
     font-size: 1.8rem;
     height: 50px;
+    border-radius: 7px;
+    border: 0.5px groove black;
   }
 
 @media screen and (max-width:960px) 

@@ -1,6 +1,6 @@
 import React from 'react';
 import '../../App.css';
-
+import LineChart from '../Chart';
 export default function Products() {
-  return <h1 className='products'>PRODUCTS</h1>;
+  return (<div><h1 className='products'><LineChart/></h1></div>);
 }

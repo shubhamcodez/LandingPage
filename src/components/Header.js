@@ -11,7 +11,7 @@ function Header() {
     <div className = "header-logo">
     <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
     <img src="logo.jpg" className="nav-logo"/>  
-    Atlanta Remedies
+    Company Corp. Limited.
     </Link>
     </div>
     <div className = "header-contact"> 

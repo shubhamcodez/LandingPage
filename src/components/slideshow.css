@@ -1,12 +1,12 @@
 .slide-container{
 position: sticky;    
-margin: 2px 5px;
-max-width: auto;    
+margin: 0 auto;
+max-width: 1200px;    
 }
 
 .image-container{
     margin-top: 5px;
-    width: 500px;
+    width: 700px;
     height: 500px;
     object-fit: contain;
 }
