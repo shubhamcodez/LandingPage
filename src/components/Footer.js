@@ -34,10 +34,10 @@ function Footer() {
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
             <img src="favicon.ico" className="footer-icon" />
-            Atlanta Remedies
+            Company Corporation Limited.
             </Link>
           </div>
-          <small class='website-rights'>Atlanta Remedies© 2021</small>
+          <small class='website-rights'>Company Corporation Limited© 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
